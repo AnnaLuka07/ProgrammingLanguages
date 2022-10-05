@@ -1,0 +1,15 @@
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\bin\Debug\net6.0\Ex003_Sum.exe
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\bin\Debug\net6.0\Ex003_Sum.deps.json
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\bin\Debug\net6.0\Ex003_Sum.runtimeconfig.json
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\bin\Debug\net6.0\Ex003_Sum.dll
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\bin\Debug\net6.0\ref\Ex003_Sum.dll
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\bin\Debug\net6.0\Ex003_Sum.pdb
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.csproj.AssemblyReference.cache
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.AssemblyInfoInputs.cache
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.AssemblyInfo.cs
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.dll
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\obj\Debug\net6.0\ref\Ex003_Sum.dll
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.pdb
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.genruntimeconfig.cache

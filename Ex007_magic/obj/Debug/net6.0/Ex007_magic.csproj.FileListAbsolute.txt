@@ -1,0 +1,15 @@
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\bin\Debug\net6.0\Ex007_magic.exe
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\bin\Debug\net6.0\Ex007_magic.deps.json
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\bin\Debug\net6.0\Ex007_magic.runtimeconfig.json
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\bin\Debug\net6.0\Ex007_magic.dll
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\bin\Debug\net6.0\ref\Ex007_magic.dll
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\bin\Debug\net6.0\Ex007_magic.pdb
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\obj\Debug\net6.0\Ex007_magic.csproj.AssemblyReference.cache
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\obj\Debug\net6.0\Ex007_magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\obj\Debug\net6.0\Ex007_magic.AssemblyInfoInputs.cache
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\obj\Debug\net6.0\Ex007_magic.AssemblyInfo.cs
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\obj\Debug\net6.0\Ex007_magic.csproj.CoreCompileInputs.cache
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\obj\Debug\net6.0\Ex007_magic.dll
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\obj\Debug\net6.0\ref\Ex007_magic.dll
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\obj\Debug\net6.0\Ex007_magic.pdb
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex007_magic\obj\Debug\net6.0\Ex007_magic.genruntimeconfig.cache

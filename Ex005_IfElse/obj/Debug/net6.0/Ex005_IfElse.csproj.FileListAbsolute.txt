@@ -1,0 +1,15 @@
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\bin\Debug\net6.0\Ex005_IfElse.exe
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\bin\Debug\net6.0\Ex005_IfElse.deps.json
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\bin\Debug\net6.0\Ex005_IfElse.runtimeconfig.json
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\bin\Debug\net6.0\Ex005_IfElse.dll
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\bin\Debug\net6.0\ref\Ex005_IfElse.dll
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\bin\Debug\net6.0\Ex005_IfElse.pdb
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.csproj.AssemblyReference.cache
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.AssemblyInfoInputs.cache
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.AssemblyInfo.cs
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.dll
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\obj\Debug\net6.0\ref\Ex005_IfElse.dll
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.pdb
+C:\Users\ANNA\Desktop\ГикБрайнс\Языки програмирования\EXAMPLEs\Ex005_IfElse\obj\Debug\net6.0\Ex005_IfElse.genruntimeconfig.cache
